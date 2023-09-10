@@ -1,0 +1,2 @@
+Bu repoyu oluşturmadaki amacım, Java veri yapıları üzerinde düşünmek, tasarlamak ve algoritma mantığımı geliştirmektir. HackerRank, LeetCode, CodeWars gibi çok iyi platformlar olsa da, bu repoda kendime meydan okuyacağım bir çalışma alanı yaratmayı hedefliyorum.
+Bu repository, Java programlama dilindeki veri yapılarına ve algoritmalarına odaklanarak, problem çözme yeteneklerimi geliştirmem için bir araç olarak kullanılacak. Kendi algoritmalarımı tasarlamak, veri yapıları üzerinde çalışmak ve farklı problem tiplerine karşı çözümler geliştirmek için kullanacağım.
